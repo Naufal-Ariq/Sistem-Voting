@@ -10,8 +10,8 @@
   <li>Proyek: Sistem Voting</li>
   <li>Anggota:</li>
   <ul>
-    <li>Ketua: <a href="https://github.com/gitaaulia05">Adi Esa Putra</a></li>
-    <li>Anggota 1: <a href="https://github.com/Syihab07">Naufal Ariq Fauziy</a></li>
+    <li>Ketua: <a href="">Adi Esa Putra</a></li>
+    <li>Anggota 1: <a href="https://github.com/Naufal-Ariq">Naufal Ariq Fauziy</a></li>
     <li>Anggota 2: <a href="https://github.com/aulianasyasaqifah">Aulia Nasya Saqifah</a></li>
   </ul>
 </ul>
