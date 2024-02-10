@@ -57,7 +57,7 @@
 
 
 ## Pembagian Tim
-<p>Koding : </p>
+<p>Coding : </p>
 <ul>
   <li>Record      : Adi</li>
   <li>Array       : Adi & Aulia</li>
@@ -66,7 +66,7 @@
   <li>Searching   : Naufal</li>
 </ul>
 <p></p>
-<p>Presentasi : </p>
+<p>Bagian presentasi : </p>
   <li>Pembukaan                 : Adi, Naufal, Aulia</li>
   <li>Pengenalan Komponen       : Aulia</li>
   <li>Penjelasan Komponen       : Naufal</li>
@@ -78,6 +78,6 @@
 
 ## Demo Proyek
 <ul>
-  <li>Github: <a href="https://github.com/gitaaulia05/Sistem-Konser">Github</a></li>
+  <li>Github: <a href="https://github.com/Naufal-Ariq/Sistem-Voting">Github</a></li>
   <li>Youtube: <a href="">Youtube</a></li>
 </ul>
