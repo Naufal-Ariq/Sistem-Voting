@@ -79,5 +79,5 @@
 ## Demo Proyek
 <ul>
   <li>Github: <a href="https://github.com/Naufal-Ariq/Sistem-Voting">Github</a></li>
-  <li>Youtube: <a href="">Youtube</a></li>
+  <li>Youtube: <a href="https://youtu.be/uaNXkfzuApY">Youtube</a></li>
 </ul>
